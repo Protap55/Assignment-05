@@ -69,7 +69,7 @@ for (let i = 0; i < 9; i++) {
       return;
     }
 
-    coins -= 20;
+    coins = coins - 20;
     coinEl.innerText = coins;
     alert(messages[i]);
     const history = document.getElementById("callHistory");
