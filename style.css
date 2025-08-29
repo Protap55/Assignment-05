@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif !important;
+  background-color: #f5fff6 !important;
+}
+
+.hind {
+  font-family: "Hind Madurai", sans-serif;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.copy:hover {
+  background-color: lightgray;
+  color: black;
+}
+
+.shadow {
+  box-shadow: 1px 2px 5px rgb(71, 71, 71) !important;
+}
